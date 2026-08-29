@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,price,cost
+2001,Tennis Racket,Sports,Outdoor,299.75,217.05
+2002,Dinner Set,Home,Storage,3399.35,2325.4
+2003,Water Bottle,Home,Storage,897.07,725.68
+2004,Face Serum,Beauty,Makeup,5737.49,4660.22
+2005,Desk Organizer,Home,Storage,4131.51,2464.39
+2006,Lipstick,Beauty,Skincare,2520.77,1740.92
+2007,Perfume,Beauty,Personal Care,608.91,418.08
+2008,Laptop Stand,Electronics,Accessories,877.18,518.81
+2009,Sunglasses,Fashion,Accessories,350.93,194.57
+2010,Wall Clock,Home,Kitchen,531.18,393.28
+2011,Casual Shirt,Fashion,Accessories,2093.74,1238.87
+2012,Kurta,Fashion,Men's Wear,5550.17,3867.95
+2013,Wall Clock,Home,Storage,1139.77,771.8
+2014,Sneakers,Fashion,Women's Wear,7937.4,4610.84
+2015,Sneakers,Fashion,Accessories,1841.99,1184.2
+2016,Skipping Rope,Sports,Fitness,939.68,719.57
+2017,Skipping Rope,Sports,Outdoor,3423.66,2358.44
+2018,Football,Sports,Sportswear,2150.57,1708.02
+2019,Resistance Bands,Sports,Fitness,7189.73,5625.23
+2020,Gym Gloves,Sports,Fitness,7929.42,5017.97
+2021,Laptop,Electronics,Accessories,2459.53,1648.74
+2022,Power Bank,Electronics,Laptops,3726.18,2874.48
+2023,Dinner Set,Home,Decor,349.74,264.67
+2024,Face Serum,Beauty,Makeup,657.46,489.85
+2025,Jacket,Fashion,Accessories,1078.9,734.45
+2026,Football,Sports,Sportswear,940.15,721.14
+2027,Smart Watch,Electronics,Laptops,783.31,440.21
+2028,Tennis Racket,Sports,Outdoor,8996.81,7092.8
+2029,Hoodie,Fashion,Accessories,767.52,449.08
+2030,Cushion Set,Home,Kitchen,686.55,551.02
+2031,Lipstick,Beauty,Skincare,370.47,223.66
+2032,Smart Watch,Electronics,Laptops,15074.19,9623.79
+2033,Non-Stick Pan,Home,Furniture,4002.68,2952.07
+2034,Sports T-Shirt,Sports,Outdoor,558.84,355.73
+2035,Running Shoes,Fashion,Accessories,744.36,500.02
+2036,Perfume,Beauty,Skincare,1761.84,1235.71
+2037,Sunscreen,Beauty,Personal Care,1602.13,963.26
+2038,Moisturizer,Beauty,Skincare,5273.95,3753.43
+2039,Hair Serum,Beauty,Haircare,187.24,144.54
+2040,Table Lamp,Home,Kitchen,10154.95,7050.4
+2041,Face Serum,Beauty,Haircare,3037.46,1815.32
+2042,Wireless Earbuds,Electronics,Laptops,25320.04,16319.06
+2043,Hoodie,Fashion,Women's Wear,5035.38,3173.69
+2044,Hoodie,Fashion,Accessories,826.2,499.73
+2045,Perfume,Beauty,Haircare,267.68,177.37
+2046,Smartphone,Electronics,Audio,671.98,408.18
+2047,Gym Gloves,Sports,Equipment,4275.66,2629.22
+2048,Gym Gloves,Sports,Outdoor,683.64,399.74
+2049,Dumbbells,Sports,Outdoor,1223.76,874.89
+2050,Table Lamp,Home,Furniture,1226.02,936.04
+2051,Shampoo,Beauty,Personal Care,1231.42,769.77
+2052,Cotton T-Shirt,Fashion,Accessories,3379.58,2014.81
+2053,Football,Sports,Outdoor,615.67,354.34
+2054,Storage Box,Home,Furniture,20063.76,14367.39
+2055,Casual Shirt,Fashion,Women's Wear,2150.21,1236.18
+2056,USB-C Hub,Electronics,Accessories,24808.7,16482.11
+2057,Running Shoes,Fashion,Women's Wear,324.37,216.07
+2058,Smartphone,Electronics,Audio,1773.13,1250.05
+2059,Skipping Rope,Sports,Sportswear,544.5,348.18
+2060,Mechanical Keyboard,Electronics,Smartphones,4882.29,3653.09
+2061,Moisturizer,Beauty,Personal Care,5829.57,4393.62
+2062,Perfume,Beauty,Personal Care,3228.83,2412.49
+2063,Desk Organizer,Home,Storage,2225.53,1607.58
+2064,Skipping Rope,Sports,Sportswear,8370.8,5578.86
+2065,Face Serum,Beauty,Personal Care,5210.87,3216.19
+2066,Face Serum,Beauty,Makeup,2443.21,1961.4
+2067,Sneakers,Fashion,Accessories,2006.01,1193.91
+2068,Floor Mat,Home,Furniture,806.63,601.49
+2069,Football,Sports,Equipment,683.57,410.84
+2070,Desk Organizer,Home,Kitchen,2621.76,1505.77
+2071,Smart Watch,Electronics,Audio,47355.16,30003.49
+2072,Hoodie,Fashion,Footwear,395.18,271.93
+2073,Moisturizer,Beauty,Haircare,829.51,533.23
+2074,Sunscreen,Beauty,Haircare,416.47,333.39
+2075,Denim Jeans,Fashion,Men's Wear,875.6,502.48
+2076,Resistance Bands,Sports,Outdoor,375.84,286.88
+2077,Resistance Bands,Sports,Sportswear,3994.06,2876.82
+2078,Sunglasses,Fashion,Footwear,7042.72,5167.84
+2079,Hair Serum,Beauty,Personal Care,915.54,677.69
+2080,Face Wash,Beauty,Makeup,2453.18,1986.33
+2081,Hair Serum,Beauty,Skincare,4682.94,2861.61
+2082,Skipping Rope,Sports,Outdoor,11308.19,9151.28
+2083,Floor Mat,Home,Kitchen,6218.59,3792.23
+2084,Kurta,Fashion,Footwear,322.79,190.91
+2085,Bluetooth Speaker,Electronics,Audio,14525.62,11041.76
+2086,Hair Serum,Beauty,Makeup,409.36,226.87
+2087,Cotton T-Shirt,Fashion,Men's Wear,537.08,298.32
+2088,Denim Jeans,Fashion,Men's Wear,2669.55,1922.04
+2089,Sunscreen,Beauty,Personal Care,1214.43,713.04
+2090,Lipstick,Beauty,Personal Care,187.09,124.67
+2091,Sunglasses,Fashion,Women's Wear,750.04,551.41
+2092,Desk Organizer,Home,Storage,8601.17,6188.48
+2093,USB-C Hub,Electronics,Audio,21337.27,14875.18
+2094,Smart Watch,Electronics,Laptops,2740.04,2199.19
+2095,Body Lotion,Beauty,Makeup,1478.08,978.06
+2096,Wall Clock,Home,Furniture,949.11,634.73
+2097,Makeup Kit,Beauty,Makeup,2812.68,1761.88
+2098,Mechanical Keyboard,Electronics,Laptops,14066.21,10215.02
+2099,Wireless Earbuds,Electronics,Audio,6998.33,5232.83
+2100,Football,Sports,Sportswear,754.08,472.43
